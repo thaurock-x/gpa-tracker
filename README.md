@@ -82,3 +82,13 @@ No requiere servidores, compilar código ni instalar dependencias de Node.js.
 1. **Clonar el repositorio:**
    ```bash
    git clone [https://github.com/tu-usuario/gpa-tracker.git](https://github.com/tu-usuario/gpa-tracker.git)
+   
+    ```
+---
+
+### ​📄 Licencia:
+
+<div align="center">
+Desarrollado con 💚 por <strong>Thaurock</strong>
+</div>
+
